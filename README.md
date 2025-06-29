@@ -1,6 +1,6 @@
 # 🎮 Raylib C++ Starter Template (VSCode) BY Shanmukha
 
-![preview](preview.jp)
+![Preview](preview.jpg)
 
 This is a beginner-friendly **Raylib + C++** starter project set up for **Visual Studio Code**. It includes:
 
